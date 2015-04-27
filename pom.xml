@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.syx</groupId>
-  <artifactId>hbase_second_indexer</artifactId>
+  <artifactId>hbase_secondary_indexer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
@@ -20,7 +20,6 @@
   		<artifactId>solr-core</artifactId>
   		<version>4.5.1</version>
 	</dependency>
-    
   </dependencies>
  
   <repositories>
