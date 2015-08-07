@@ -1,9 +1,9 @@
-# hbase_secondary_index说明
-hbase_secondary_index是一个hbase二级索引的实现，基于solr+hbase coprocessor框架为hbase提供索引表支持。
+# hbaseSecondaryIndex说明
+hbaseSecondaryIndex是一个hbase二级索引的实现，基于solr+hbase coprocessor框架为hbase提供索引表支持。
 
 此工程可打包为一个hbase的插件，通用方便。
 
-这篇文档的目的是为了向您介绍hbase_secondary_index的基本使用，使得您可以使用它来弥补hbase无内建二级索引支持的问题。
+这篇文档的目的是为了向您介绍hbaseSecondaryIndex的基本使用，使得您可以使用它来弥补hbase无内建二级索引支持的问题。
 
 如果你已经准备好了，那么就开始阅读吧。
 
